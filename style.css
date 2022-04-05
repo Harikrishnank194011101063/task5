@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(216, 169, 169);
+}
+
+#image{
+    position: relative;
+    padding: 3px;
+    top: 25px;
+}
+
+#name{
+    background-color: rgb(87, 197, 240);
+    font-size: larger;
+    padding: 10px;
+    border-color: black;
+    border-radius: 10px;
+    width: 500px;
+    position: relative;
+    left: 420px;
+    bottom: 92px;
+}
+
+#blank{
+    background-color: rgb(146, 161, 175);
+}
+
+#parent{
+    background-color: aliceblue;
+    padding: 10px;
+    height:1250px;
+    width: 1500px;
+    position: relative;
+    bottom: 30px;
+}
+
+#box1{
+    width:750px;
+}
+
+#box2{
+    width:700px;
+    position: relative;
+    left: 750px;
+    bottom: 1166px;
+}
+
+.child{
+    font-size: 40px;
+    color: rgb(95, 247, 133);
+    padding-left: 5px;
+}
+
+.sub{
+    font-size: 25px;
+}
+
+table{
+    width: 750px;
+}
+
+.slider{
+    width: 500px;
+    margin-left: 50px;
+}
+
+span{
+    margin-left: 380px;
+}
